@@ -1,0 +1,113 @@
+body {
+    font-family: 'Coming Soon', cursive;
+}
+
+img {
+    padding: 10px;
+}
+
+.section {
+    text-align: center;
+    padding: 60px;
+}
+
+#intro {
+    font-size: 200%;
+    line-height: 2em;
+    background-image: url("../image/introbg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Schoolbell', cursive;
+}
+
+.btn {
+    margin: 30px;
+    font-family: 'Coming Soon', cursive;
+}
+
+#orkid {
+    font-size: 150%;
+    line-height: 1.5em;
+    background: linear-gradient(white, #74C5D6);
+    color: #4f5154;
+}
+
+#video {
+    padding: 20px;
+}
+
+#stories {
+    background: linear-gradient(#74C5D6, #67AADF);
+    font-size: 140%;
+    line-height: 1.7em;
+    text-align: left;
+    color: #36393f;
+}
+
+.storiesExplain {
+    text-align: right;
+    color: #F7F7F7;
+}
+
+h1.storyheading {
+    color: #F7F7F7;
+}
+
+p.lifespan {
+    color: #E8E8E8;
+}
+
+.inference {
+    border-left: 15px solid #36393f;
+    border-radius: 10px;
+    background-color: #E8E8E8;
+    margin: 20px;
+    color: #36393f;
+    padding: 3px 6px;
+}
+
+.giftdirection {
+    text-align: center;
+    color: #F7F7F7;
+}
+
+#gift {
+    background: -webkit-linear-gradient(#67AADF, #145B9D);
+    font-size: 150%;
+    color: #74C5D6;
+}
+
+#openGift {
+    color: white;
+    font-size: 250%;
+}
+
+#resources {
+    background: -webkit-linear-gradient(#145B9D, #003845);
+    color: white;
+    font-size: 130%;
+}
+
+a:link {
+    color: #A0CDB6;
+}
+
+a:hover {
+    color: #45A889;
+}
+
+#giftpic:hover {
+    -webkit-filter: grayscale(100%);
+}
+
+.tiltpic:hover {
+    transform: rotate(-20deg);
+}
+
+#tankpic:hover {
+    -webkit-filter: grayscale(100%);
+}
+
+#navigation {
+    font-size: 80%;
+}
